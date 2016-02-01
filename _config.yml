@@ -1,14 +1,29 @@
+name: Transference
+favicon: null
 layout_spectrum: 1
 typography_spectrum: 1
+title: transferencethemovie
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.9845623
-  lightness: 0.05196574
-  brandStrength: 1
   brandColors:
     - '#010202'
     - '#5C7888'
     - '#4B4342'
     - '#ABC7C6'
     - '#F8FBE7'
+  brandStrength: 1
+  lightness: 0.05196574
+  saturation: 0.9845623
   rhythmicContrast: 0.5622655
-name: Transference
+purpose: []
