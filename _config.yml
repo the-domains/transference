@@ -1,5 +1,8 @@
-title: null
-purpose: []
+name: Transference
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.74374
+title: Transference
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.9845623
-  brandStrength: 0.375
-  rhythmicContrast: 0.25
   brandColors:
     - '#040505'
     - '#223b3a'
     - '#494f4d'
     - '#6f645a'
     - '#8e8980'
+  brandStrength: 0.375
   lightness: 0.05196574
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: Transference
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.74374
-layout_spectrum: 1
+  saturation: 0.9845623
+  rhythmicContrast: 0.25
+purpose: []
