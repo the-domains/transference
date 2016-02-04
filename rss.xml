@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Transference]]></title>
         <description><![CDATA[Transference]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/transference/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Feb 2016 20:29:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 04 Feb 2016 14:39:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/transference/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Day 1 a whole day of office shoots]]></title>
+            <description><![CDATA[<article><h1>Day 1 a whole day of office shoots</h1><p>Day 1</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b6d15d17c84f432363274bcca04d95051cbf7880.jpg"></article>]]></description>
+            <link>urn:uuid:97d02b18-6c5b-469c-b26a-5d924674bd62</link>
+            <guid isPermaLink="false">1f9b4cae-318b-433c-8556-165651b50bff</guid>
+            <pubDate>Thu, 04 Feb 2016 14:39:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Day 3]]></title>
-            <description><![CDATA[<article><h1>Day 3</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4c40908-5663-477f-ac8d-03e053d046bc.png"></article>]]></description>
-            <link>undefinedday-3/index.html</link>
+            <description><![CDATA[<article><h1>Day 3</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0f9de0ad9859029021d4edfd3282ae21ab69855f.png"></article>]]></description>
+            <link>https://thegrid.ai/transference/day-3/index.html</link>
             <guid isPermaLink="false">19a582dd-33a9-4eb7-901a-75c38f947f83</guid>
             <pubDate>Tue, 02 Feb 2016 20:29:07 GMT</pubDate>
         </item>
