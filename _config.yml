@@ -1,5 +1,8 @@
+name: Transference
+favicon: null
+layout_spectrum: 0
+typography_spectrum: 0.74374
 title: Transference
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.1045531
-  brandStrength: 0.7694235
-  lightness: 0.05196574
   brandColors:
     - '#040505'
     - '#223b3a'
     - '#494f4d'
     - '#6f645a'
     - '#8e8980'
+  brandStrength: 0.7694235
+  lightness: 0.05196574
+  saturation: 0.1045531
   rhythmicContrast: 0.2892074
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: Transference
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.74374
-layout_spectrum: 0
+purpose: []
